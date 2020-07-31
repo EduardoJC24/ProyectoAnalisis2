@@ -14,6 +14,7 @@ para cumplir con el desarrollo del proyecto.
 <li> Elias Jonadab Romero Arana</li>
 <li> Freddy Arnulfo Pinto Roque </li> 
 </ul>
+<br>
 <footer>Universidad Mariano Gálvez de Guatemala</footer>
 </body>
 </html>
